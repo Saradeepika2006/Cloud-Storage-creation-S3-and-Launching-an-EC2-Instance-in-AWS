@@ -48,39 +48,37 @@ d)	Steps to Clean Up (Terminate the Instance)
 2.	Select your instance → Instance State → Terminate.
 
 
-Snap Shots:
- 
+## OUTPUT:
+<img width="1920" height="1200" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/7bac9d90-e759-4e73-8844-20b4af35ccfc" />
 
-Snap Shot 1: Simple Storage Service (S3)
- 
+<img width="1920" height="1200" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/bb61ec67-fde1-40ac-910f-f869fe1522f5" />
 
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+<img width="1920" height="1200" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/5a555dcf-8c01-4367-8c44-1a786d82811e" />
 
+<img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/49042baa-9315-4589-908d-eb0a026d0257" />
 
+<img width="1920" height="1200" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/92866204-6f3f-4eb9-aa2e-60d578120ad4" />
 
+<img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/adddb9b2-c9ef-468c-a6a7-3d1aecfd9bbe" />
 
+<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/896e938b-32e9-4683-8ccc-bc2d3b76996a" />
 
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/8962548d-2ba9-4218-b4ef-8d9f6ce886cf" />
 
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/0e2efa60-84f9-418e-b386-3105c5ea90a8" />
 
+<img width="1920" height="1200" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6d20886a-4efe-4589-a35d-d788eef655c3" />
 
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/530935cc-0d83-4676-a267-8f6616f1b501" />
 
+<img width="1920" height="1200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/3eb16476-ec38-47a4-8df4-162ea878bffe" />
 
+<img width="1920" height="1200" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/0dfb600e-23c5-44b2-a0ca-48973b499a8a" />
 
+<img width="1920" height="1200" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/ccbd39ef-73df-4feb-b00e-bc74b25ab556" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## NAME: Mopuri Saradeepika
+## reg no:212224040201
 
 Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
